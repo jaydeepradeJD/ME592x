@@ -1,8 +1,0 @@
-train: ../dataset_2k/images/train/
-val: ../dataset_2k/images/test/
-
-# number of classes
-nc: 1
-
-# class names
-names: ['crystal']
